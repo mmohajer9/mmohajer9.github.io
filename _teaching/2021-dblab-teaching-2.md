@@ -10,9 +10,3 @@ location: "Isfahan, Iran"
 
 Teaching Assistant For Database Laboratory - Teaching Microsoft SQL Server
 Under the supervision of Dr. Alireza Basiri
-
-<!-- # Heading 1
-
-# Heading 2
-
-# Heading 3 -->
