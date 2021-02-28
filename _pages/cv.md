@@ -58,20 +58,21 @@ Skills
 
 
 
-* **Programming Related Skills**
+* **Technical Related Skills**
   * Database design
   * Object-Oriented System Analysis and Design
   * Object-Oriented Programming
   * Agile and Scrum
+  * Microsoft Office
+  * LaTeX
+  * Gitlab CI/CD
   * Git
 
 
 * **General Skills**
   * Team work
   * Team Management
-  * Adaptability
   * Public Speaking
-
 
 
 
