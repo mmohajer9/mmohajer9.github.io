@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Teaching Assistant"
+title: "Undergraduate Teaching Assistant - Winter 2020"
 collection: teaching
 type: "Database Lab - Microsoft SQL Server"
 permalink: /teaching/2020-dblab
