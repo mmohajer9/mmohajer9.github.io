@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,7 +27,7 @@ Work experience
 * **Fall 2019: Software Developer**
   * Isfahan Science and Technology Town (ISTT)
   * Highlights: Cooperation with companies in multiple projects
-  * Compnay: Tozico Corp
+  * Companies: Tozico Corp , Mizan Gostar
   
 Skills
 ======
