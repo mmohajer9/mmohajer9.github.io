@@ -28,6 +28,9 @@ Work experience
   * Isfahan Science and Technology Town (ISTT)
   * Highlights: Cooperation with companies in multiple projects
   * Companies: Tozico Corp , Mizan Gostar
+
+* **Fall 2018: Freelance Software Developer**
+  * Highlights: Completed several projects with several individuals
   
 Skills
 ======
