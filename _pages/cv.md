@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering (Software Engineering Spec), Isfahan University of Technology, 2021
+* **B.S. in Computer Engineering** (Software Engineering Spec), Isfahan University of Technology, 2021
 
 
 Work experience
 ======
 
-* Fall 2020 - Winter 2019: Software Engineer / Team Leader
+* **Fall 2020 - Winter 2019: Software Engineer / Team Leader**
   * Isfahan University of Technology
   * Highlights:
     * Managed a team of 3 developers to complete a project with Student Affairs Department of Isfahan University of Technology
     * Developed an Information System to enhance the task flows in dormitories of a university called "The Dormitory Assistant
   * Section: The Department of Student Affairs of Isfahan University of Technology
 
-* Fall 2019: Software Developer
+* **Fall 2019: Software Developer**
   * Isfahan Science and Technology Town (ISTT)
   * Highlights: Cooperation with companies in multiple projects
   * Compnay: Tozico Corp
@@ -32,15 +32,16 @@ Work experience
 Skills
 ======
 
-* Programming Languages
+* **Programming Languages**
   * Python (Expert)
   * Javascript (Advanced)
   * SQL (Advanced)
   * C/C++ (Advanced)
   * Java (Intermediate)
   * MATLAB (Familiar)
----  
-* Technologies and Frameworks:
+
+
+* **Technologies and Frameworks**
   * Django (Expert)
   * React.js (Advanced)
   * PostgreSQL (Advanced)
@@ -50,24 +51,28 @@ Skills
   * Vue.js (Intermediate)
   * RabbitMQ (Familiar)
   * MongoDB (Familiar)
-  * MATLAB (Familiar)
----
-* Programming Related Skills:
+
+
+
+
+* **Programming Related Skills**
   * Database design
   * Object-Oriented System Analysis and Design
   * Object-Oriented Programming
   * Agile and Scrum
   * Git
----
-* General Skills:
+
+
+* **General Skills**
   * Team work
   * Team Management
   * Adaptability
   * Public Speaking
 
----
 
-* Fields of Interest:
+
+
+* **Fields of Interest**
   * Software Engineering
   * Software Testing and Quality
   * Agile Development
