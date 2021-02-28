@@ -33,24 +33,24 @@ Skills
 ======
 
 * **Programming Languages**
-  * Python (Expert)
-  * Javascript (Advanced)
-  * SQL (Advanced)
-  * C/C++ (Advanced)
-  * Java (Intermediate)
-  * MATLAB (Familiar)
+  * Python (**Expert**)
+  * Javascript (**Advanced**)
+  * SQL (**Advanced**)
+  * C/C++ (**Advanced**)
+  * Java (**Intermediate**)
+  * MATLAB (**Familiar**)
 
 
 * **Technologies and Frameworks**
-  * Django (Expert)
-  * React.js (Advanced)
-  * PostgreSQL (Advanced)
-  * Microsoft SQL Server (Advanced)
-  * Celery (Advanced)
-  * Redis (Intermediate)
-  * Vue.js (Intermediate)
-  * RabbitMQ (Familiar)
-  * MongoDB (Familiar)
+  * Django (**Expert**)
+  * React.js (**Advanced**)
+  * PostgreSQL (**Advanced**)
+  * Microsoft SQL Server (**Advanced**)
+  * Celery (**Advanced**)
+  * Redis (**Intermediate**)
+  * Vue.js (**Intermediate**)
+  * RabbitMQ (**Familiar**)
+  * MongoDB (**Familiar**)
 
 
 
