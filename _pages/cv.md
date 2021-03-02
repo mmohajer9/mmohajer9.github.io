@@ -59,6 +59,7 @@ Skills
 
 
 * **Technical Related Skills**
+  * Software Testing
   * Database design
   * Object-Oriented System Analysis and Design
   * Object-Oriented Programming
