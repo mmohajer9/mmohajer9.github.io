@@ -79,7 +79,8 @@ Skills
 
 * **Fields of Interest**
   * Software Engineering
-  * Software Testing and Quality
+  * Software Testing
+  * Formal Verification
   * Agile Development
   * Cloud Computing
   * Entrepreneurship
